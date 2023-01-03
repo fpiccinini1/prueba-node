@@ -1,0 +1,64 @@
+[
+    
+        {
+            "id": 0,
+            "marca": "fierce",
+            "modelo": "FM18SI29AM211",
+            "rodado": 16,
+            "anoDeFabricacion": 2019,
+            "color": "celeste",
+            "pesoKg": 13,
+            "tipo": "montañera",
+            "precio": 10000,
+            "vendida": "no"
+        },
+        {
+            "id": 1,
+            "marca": "fierce",
+            "modelo": "FM18F29AM210",
+            "rodado": 26,
+            "anoDeFabricacion": 2020,
+            "color": "negro",
+            "pesoKg": 15,
+            "tipo": "paseo",
+            "precio": 11000,
+            "vendida": "no"
+        },
+        {
+            "id": 2,
+            "marca": "olmo",
+            "modelo": "regal",
+            "rodado": 28,
+            "anoDeFabricacion": 2021,
+            "color": "gris",
+            "pesoKg": 16,
+            "tipo": "retro",
+            "precio": 12000,
+            "vendida": "no"
+        },
+        {
+            "id": 3,
+            "marca": "battle",
+            "modelo": "sunshine",
+            "rodado": 29,
+            "anoDeFabricacion": 2022,
+            "color": "amarillo",
+            "pesoKg": 17,
+            "tipo": "triatlon",
+            "precio": 13000,
+            "vendida": "no"
+        },
+        {
+            "id": 4,
+            "marca": "topMega",
+            "modelo": "techno",
+            "rodado": 30,
+            "anoDeFabricacion": 2023,
+            "color": "rosa",
+            "pesoKg": 18,
+            "tipo": "playera",
+            "precio": 14000,
+            "vendida": "si"
+        }
+    
+    ]
